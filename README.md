@@ -32,6 +32,11 @@ Each command runs a fresh simulation and displays its trace. Save the four live 
 - [Report](REPORT.md)
 - [Simulation CSVs and text traces](results/)
 - [Output snapshots](screenshots/)
-- [Simulator output replay videos](videos/)
+- Live screen recordings of the simulation runs
+  - [Modified Blinky](videos/Blinky_Live.mov)
+  - [Satellite](videos/Satellite_Live.mov)
+  - [Outdoor Unit](videos/ODU_Live.mov)
+  - [Coupled Satellite and ODU](videos/Coupled_Live.mov)
+- [Supplemental simulator output replays](videos/) (`.avi`)
 - [Cadmium v2 installation manual](https://devssim.carleton.ca/manuals/installation/Cadmium_Documentation_Embedded_10.pdf)
 - [Official Traffic Light example](https://github.com/Sasisekhar/DEVS_Traffic_Light/tree/54333cbd96c9d32651e9411d45e92adc564bcd72)

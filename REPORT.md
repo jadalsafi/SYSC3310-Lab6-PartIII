@@ -33,4 +33,6 @@ The Satellite's `beam_out` is coupled directly to the ODU's `beam_in`. The first
 
 ## Evidence
 
-The CSVs and trace text contain the simulator's original output. The images and videos present that output as snapshots and replays. All timing results are simulation timestamps. The MSP432 and the optional IDU extension were outside this run.
+The live screen recordings show the terminal command and simulation output for [Modified Blinky](videos/Blinky_Live.mov), [Satellite](videos/Satellite_Live.mov), [Outdoor Unit](videos/ODU_Live.mov), and the [coupled model](videos/Coupled_Live.mov).
+
+The CSVs and text traces contain the simulator output. The PNG snapshots and AVI replays are supplemental. All timing results are simulation timestamps. The MSP432 and the optional IDU extension were outside this run.
